@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class CameraController : MonoBehaviour
 {
-    public float cameraSpeed = 20f;
+    public float cameraSpeed = 30f;
     public float speedH = 6.0f;
     public float speedV = 6.0f;
 
